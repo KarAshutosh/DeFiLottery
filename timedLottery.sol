@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: UNLICENSED
-// By Ashutosh Karanam
+// Ashutosh Karanam
 
 pragma solidity >= 0.5.0 < 0.9.0;
 
